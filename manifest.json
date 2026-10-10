@@ -1,0 +1,14 @@
+{
+  "name": "Sonora — Find Your Sound",
+  "short_name": "Sonora",
+  "description": "A quiet place to find your sound.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111210",
+  "theme_color": "#111210",
+  "icons": [
+    {"src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
